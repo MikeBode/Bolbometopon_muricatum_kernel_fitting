@@ -8,5 +8,7 @@ Hamilton, R. et al. (2021). "Larval dispersal and fishing pressure influence rec
 Contact Michael.bode@qut.edu.au for support.
 
 Fit_Bolbo_data.m is the central fitting file.
+
 Assemble_distance_matrix.m must be run first to create the inter-reef distance matrix
+
 Plot_kernel.m creates the dispersal kernel figure found in the article.
